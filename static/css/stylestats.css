@@ -1,0 +1,6 @@
+.stats-th, .stats-td {
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    border: 1px solid black;
+}

@@ -1,0 +1,12 @@
+.profile_input:focus{
+    outline: none;
+    border-bottom: 1px solid red;
+}
+.profile_input {
+    border: none;
+    border-bottom: 1px solid;
+}
+
+.profile_label {
+    margin-top: 12px;
+}
